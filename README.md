@@ -2,6 +2,7 @@
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
+python IDE with Numpy and Scipy
 # Program
 ```
 import numpy as np
@@ -56,12 +57,9 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
-<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/84b9005d-79b8-4cd1-97f3-bbdc39a6fc51" />
 
-```
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/648abdfd-c10c-455f-a294-c8851f4d1a25" />
+
+
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+Thus the program for Ideal, Natural, & Flat-topSampling has been executed and verified successfully.
