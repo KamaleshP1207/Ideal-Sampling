@@ -1,5 +1,4 @@
 # 1 Experimental verification of Signal sampling using various types
-
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
@@ -59,8 +58,7 @@ plt.show()
 ```
 # Output Waveform
 
-<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/648abdfd-c10c-455f-a294-c8851f4d1a25" />
-
+<img width="1228" height="816" alt="image" src="https://github.com/user-attachments/assets/fbaa5db0-1500-4410-8520-2479fa5388d7" />
 
 # Results
 Thus the program for Ideal, Natural, & Flat-topSampling has been executed and verified successfully.
