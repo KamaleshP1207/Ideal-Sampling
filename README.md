@@ -64,6 +64,6 @@ plt.show()
 
 
 # Results
-```
+
 A simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling is simulated using COLAB.
-```
+
